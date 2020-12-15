@@ -7,7 +7,7 @@ subtitle: null
 active: true
 content:
   autolink: true
-  form:
+  form: false
     provider: netlify
     formspree:
       ? id
