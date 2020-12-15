@@ -18,9 +18,12 @@ organizations:
     url: https://www.columbia.edu
 education:
   courses:
-    - course: Theoretical Condensed Matter, Ph.D.
+    - course: Ph.D., Theoretical Condensed Matter
       institution: The University of British Columbia
       year: 2019
+    - course: M.SC., Chemical Physics
+      institution: University of Waterloo
+      year: 2009
 email: ""
 superuser: true
 highlight_name: false
