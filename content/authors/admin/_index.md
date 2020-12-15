@@ -24,7 +24,7 @@ education:
     - course: M.Sc., Chemical Physics
       institution: University of Waterloo
       year: 2013
-email: ""
+email: js5530 at columbia dot edu
 superuser: true
 highlight_name: false
 ---
