@@ -21,9 +21,9 @@ education:
     - course: Ph.D., Theoretical Condensed Matter
       institution: The University of British Columbia
       year: 2019
-    - course: M.SC., Chemical Physics
+    - course: M.Sc., Chemical Physics
       institution: University of Waterloo
-      year: 2009
+      year: 2013
 email: ""
 superuser: true
 highlight_name: false
