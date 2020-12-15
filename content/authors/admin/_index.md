@@ -1,7 +1,7 @@
 ---
 title: John Sous
 role: MRSEC Postdoctoral Fellow
-bio: ""
+bio: Theoretical Physicist
 interests: []
 social:
   - icon: envelope
