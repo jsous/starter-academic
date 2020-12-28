@@ -2,13 +2,13 @@
 name = "Sous"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary = "#BF8CD7"
+primary = "#8CB5D7"
 
 # Menu
-menu_primary = "#BF8CD7"
+menu_primary = "#8CB5D7"
 menu_text = "#34495e"
 menu_text_active = "#34495e"
 menu_title = "#2b2b2b"
