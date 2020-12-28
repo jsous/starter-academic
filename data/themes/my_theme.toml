@@ -2,8 +2,7 @@
 name = "Sous"
 
 # Is theme light or dark?
-#light = true
-dark = true
+light = false
 
 # Primary
 primary = "#33FFF0"
