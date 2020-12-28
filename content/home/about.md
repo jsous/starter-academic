@@ -5,9 +5,5 @@ headless: true
 weight: 20
 title: About
 active: true
-background:
-  color: 'AntiqueWhite'
-  # Text color (true=light or false=dark).
-  text_color_light: true
 author: admin
 ---
