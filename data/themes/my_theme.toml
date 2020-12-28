@@ -5,10 +5,10 @@ name = "Sous"
 light = false
 
 # Primary
-primary = "#6924A2"
+primary = "#264F6E"
 
 # Menu
-menu_primary = "#6924A2"
+menu_primary = "#264F6E"
 menu_text = "#34495e"
 menu_text_active = "#34495e"
 menu_title = "#2b2b2b"
