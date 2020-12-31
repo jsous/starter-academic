@@ -6,13 +6,11 @@ title: Awards
 subtitle: null
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ""
-    date_start: 2018-10-01
+  - date_end: "present"
+    date_start: 2019
     description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Columbia University
+    title: Materials Research Science and Engineering Center (MRSEC) Fellowship at Columbia University.
     url: ""
   - certificate_url: https://www.edx.org
     date_end: ""
