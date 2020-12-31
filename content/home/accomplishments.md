@@ -2,12 +2,12 @@
 widget: accomplishments
 headless: true
 weight: 50
-title: Awards
+title: Awards, selected
 subtitle: null
 date_format: Jan 2006
 item:
   - certificate_url: ""
-    date_end: 2021-03-30
+    date_end: 2022-03-30
     date_start: 2019-03-01
     description: ""
     organization: Columbia University MRSEC
