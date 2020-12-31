@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Sous
 headless: true
-weight: 70
+weight: 75
 title: Selected Talks
 subtitle: null
 content:
