@@ -29,7 +29,6 @@ experience:
     date_start: '2019-03-01'
     date_end: ''
     
-experience:
   - title: Deutscher Akademischer Austauschdienst (DAAD) Fellow
     company: Technical University of Munich
     company_url: ''
