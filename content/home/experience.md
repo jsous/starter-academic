@@ -56,4 +56,11 @@ experience:
     location: ''
     date_start: '2013-09-01'
     date_end: '2019-02-01'
+    
+  - title: M.Sc. student
+    company: Department of Chemistry, University of Waterloo
+    company_url: ''
+    location: ''
+    date_start: '2013-08-01'
+    date_end: '2011-02-01'
 ---
