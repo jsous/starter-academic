@@ -6,7 +6,14 @@ title: Awards
 subtitle: null
 date_format: Jan 2006
 item:
-  - title: Blockchain Fundamentals
+  - certificate_url: https://www.datacamp.com
+    date_end: 2021
+    date_start: 2019
+    description: ""
+    organization: Columbia University
+    organization_url: https://www.datacamp.com
+    title: "Materials Research Science and Engineering Center (MRSEC) Fellowship"
+    url: ""
   - certificate_url: https://www.datacamp.com
     date_end: 2017-12-21
     date_start: 2017-07-01
