@@ -28,12 +28,6 @@ experience:
     location: ''
     date_start: '2019-03-01'
     date_end: ''
-    %#description: |2-
-    % #   Responsibilities include:
-    % #   
-    % #   * Analysing
-    % #   * Modelling
-    % #   * Deploying
         
   - title: Professor
     company: University X
