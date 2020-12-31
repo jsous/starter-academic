@@ -29,11 +29,22 @@ experience:
     date_start: '2019-03-01'
     date_end: ''
         
-  - title: Professor
-    company: University X
+  - title: Deutscher Akademischer Austauschdienst (DAAD) Fellow
+    company: Technical University of Munich
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: ''
+    date_start: '2018-10-01'
+    date_end: '2019-02-01'    
+    
+ - title: Visiting student
+    company: ITAMP and Department of Physics, Harvard University
+    company_url: ''
+    date_start: '2018-09-01'
+    date_end: '2019-10-01'
+       
+  - title: Institute for Theoretical Atomic, Molecular, and Optical Physics (ITAMP) Visiting Fellow
+    company: ITAMP and Department of Physics, Harvard University
+    company_url: ''
+    date_start: '2017-08-01'
+    date_end: '2018-04-31'
 ---
