@@ -36,8 +36,8 @@ experience:
     date_start: '2018-10-01'
     date_end: '2019-02-01'    
     
- - title: Visiting student
-    company: ITAMP and Department of Physics, Harvard University
+ -  title: Visiting student
+    company: Department of Physics, Harvard University
     company_url: ''
     date_start: '2018-09-01'
     date_end: '2019-10-01'
