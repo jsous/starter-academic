@@ -34,7 +34,7 @@ experience:
     company_url: ''
     location: ''
     date_start: '2018-10-01'
-    date_end: '2019-02-01'    
+    date_end: '2019-02-01'
     
  -  title: Visiting student
     company: Department of Physics, Harvard University
