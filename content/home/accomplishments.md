@@ -6,8 +6,9 @@ title: Awards
 subtitle: null
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.datacamp.com
-    date_end: "present"
+  - certificate_url: ""
+    #%#certificate_url: https://www.datacamp.com
+    date_end: "2021-03-01"
     date_start: 2019-03-01
     description: ""
     organization: Columbia University
