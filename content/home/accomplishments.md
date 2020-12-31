@@ -7,12 +7,11 @@ subtitle: null
 date_format: Jan 2006
 item:
   - certificate_url: ""
-    #%#certificate_url: https://www.datacamp.com
-    date_end: "2021-03-01"
+    date_end: 2021-03-30
     date_start: 2019-03-01
     description: ""
-    organization: Columbia University
-    organization_url: https://www.datacamp.com
+    organization: Columbia University MRSEC
+    organization_url: https://mrsec.columbia.edu
     title: "Materials Research Science and Engineering Center (MRSEC) Fellowship"
     url: ""
   - certificate_url: https://www.datacamp.com
