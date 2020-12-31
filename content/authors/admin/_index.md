@@ -10,9 +10,6 @@ social:
   - icon: google
     icon_pack: fab
     link: https://scholar.google.com/citations?user=_PqcB9kAAAAJ&hl=en
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Columbia University
     url: https://www.columbia.edu
