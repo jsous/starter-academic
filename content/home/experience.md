@@ -61,6 +61,6 @@ experience:
     company: Department of Chemistry, University of Waterloo
     company_url: ''
     location: ''
-    date_start: '2013-08-01'
-    date_end: '2011-02-01'
+    date_start: '2011-02-01'
+    date_end: '2013-08-01'
 ---
