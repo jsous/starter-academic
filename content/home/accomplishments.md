@@ -7,8 +7,8 @@ subtitle: null
 date_format: Jan 2006
 item:
   - certificate_url: https://www.datacamp.com
-    date_end:
-    date_start: 2019-03
+    date_end: 2021
+    date_start: 2019
     description: ""
     organization: Columbia University
     organization_url: https://www.datacamp.com
