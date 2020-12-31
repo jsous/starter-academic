@@ -1,7 +1,7 @@
 ---
 widget: tag_cloud
 widget_id: Sous
-weight: 65
+weight: 70
 title: ""
 subtitle: ""
 active: true
