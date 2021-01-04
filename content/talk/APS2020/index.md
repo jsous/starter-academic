@@ -2,7 +2,7 @@
 title: "Light bipolarons stabilized by strong Peierls electron-vibration coupling: A new hope for high-Tc superconductivity"
 
 event: 
-event_url: ''
+event_url: 
 
 location: American Physical Society (APS) March Meeting 2020, virtual
 address:
@@ -29,4 +29,6 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
+
+slides = "example-slides"
 ---
