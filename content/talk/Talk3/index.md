@@ -1,0 +1,1 @@
+n electron-phonon mechanism for electron pairing and high-temperature superconductivity?, Instituto de Ciencia de Materiales de Madrid, Consejo Superior de Investigaciones Cient ́ıficas, Department of Theory and Simulation of Materials - Madrid (February, 2019).
