@@ -30,6 +30,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-slides: example
+links:
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_slides: static/media/Talk_Jankunas-compressed.pdf
 
 ---
