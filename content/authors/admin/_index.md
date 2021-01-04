@@ -25,6 +25,8 @@ email: js5530 at columbia dot edu
 superuser: true
 highlight_name: false
 ---
-John Sous is a Materials Research Science and Engineering Center (MRSEC) Postdoctoral Fellow in the Center for Precision Assembly of Superstratic and Superatomic Solids at Columbia University, where he collaborates with Andrew J. Millis and David R. Reichman.
+I am a Materials Research Science and Engineering Center (MRSEC) Postdoctoral Fellow in the Center for Precision Assembly of Superstratic and Superatomic Solids and Departments of Physics and Chemistry at Columbia University, where I collaborate with Andrew J. Millis and David R. Reichman.
 
-John's main research focus lies in the study of quantum many-body systems in which correlations conspire to stabilize extreme and sometimes new states of matter.  His interests include correlated quantum materials, ultracold atoms and molecules, and dynamics of non-linearly and optically driven systems. This work relies on carefully tailored combination of analytical and numerical methods.
+My main research focus lies in the study of quantum matter in which quantum correlations conspire to stabilize extreme and sometimes new forms of matter. My research aims to find a general unifying understanding of interactions in many-body systems.  This is done by studying model systems realized in experiment in some instances, or by identifying universal features common amongs many realizations in others. I am particularly interested in correlated quantum materials, ultracold atoms and molecules, and dynamics of non-linearly and optically driven systems. My research relies on carefully tailored combination of analytical and numerical techniques.
+
+When not working, I contemplate how science can positively affect society and culture. Otherwise, I enjoy biking and consuming culture.
