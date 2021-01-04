@@ -1,10 +1,10 @@
 ---
-title: Light bipolarons stabilized by strong Peierls electron-vibration coupling: A new hope for high-Tc superconductivity
+title: Light bipolarons stabilized by strong Peierls electron-vibration coupling
 
 event: 
 event_url: ''
 
-location: American Physical Society (APS) meeting 2020, virtual
+location: American Physical Society (APS) March Meeting 2020, virtual
 address:
   street: 
   city: 
