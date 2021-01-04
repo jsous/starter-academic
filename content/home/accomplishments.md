@@ -12,7 +12,7 @@ item:
     description: ""
     organization: Columbia University MRSEC
     organization_url: https://mrsec.columbia.edu
-    title: "Materials Research Science and Engineering Center (MRSEC) Fellowship"
+    title: "Materials Research Science and Engineering Center (MRSEC) Postdoctoral Fellowship"
     url: ""
   - certificate_url: ""
     date_end: 2019-02-28
