@@ -4,7 +4,7 @@ title: Phonon-induced disorder in dynamics of optically pumped metals from non-l
 event: 
 event_url: ''
 
-location: Department of Physics, Princeton University
+location: Princeton University, Department of Physics
 address:
   street: 
   city: 
