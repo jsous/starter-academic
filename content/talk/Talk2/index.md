@@ -1,4 +1,4 @@
-;---
+---
 title: "Light bipolarons stabilized by strong Peierls electron-vibration coupling: A new hope for high-T$\\_{c}$ superconductivity"
 
 event: 
