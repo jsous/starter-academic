@@ -12,11 +12,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-09-01T00:00:00Z"
-doi: ""
+date: "2020-12-28T00:00:00Z"
+doi: "10.1103/PhysRevB.102.214437"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-09-01T00:00:00Z"
+publishDate: "2020-12-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,13 +25,14 @@ publishDate: "2020-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Phys. Rev. B 𝟏𝟎𝟐, 214437 (2020)
+publication: Phys. Rev. B $\textbf{102}$, 214437 (2020)
 #publication_short:
 
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Editor's suggestion; Fractons, as a new type of exotic quasiparticle, have attracted immense attention due to their unique properties. Here, the authors construct a connection between fractons and polarons. This allows them to derive explicitly microscopic models, in which polarons and their two-body bound states, known as bipolarons, map exactly on to fractons and their two-body counterparts, dipoles. As a specific example, the authors show how fractons and dipoles arise from magnetic polarons and bipolarons in hole-doped antiferromagnets, thus providing a route towards their physical realization.
+summary: Fractons, as a new type of exotic quasiparticle, have attracted immense attention due to their unique properties. Here, the authors construct a connection between fractons and polarons. This allows them to derive explicitly microscopic models, in which polarons and their two-body bound states, known as bipolarons, map exactly on to fractons and their two-body counterparts, dipoles. As a specific example, the authors show how fractons and dipoles arise from magnetic polarons and bipolarons in hole-doped antiferromagnets, thus providing a route towards their physical realization.
+Selected as Editor's suggestion
 
 tags: []
 
