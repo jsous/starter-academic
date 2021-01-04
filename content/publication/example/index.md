@@ -27,7 +27,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: *arXiv:2009.00619 (2020)*
-#publication_short: *arXiv*
+publication_short: *arXiv*
 
 abstract: 
 
@@ -39,7 +39,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'https://arxiv.org/pdf/2009.00619.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
