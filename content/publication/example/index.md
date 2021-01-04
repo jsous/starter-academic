@@ -1,7 +1,5 @@
-J. Sous, B. Kloss, D. M. Kennes, D. R. Reichman, and A. J. Millis, , arXiv:2009.00619 (2020)
 ---
-title: "Phonon-induced
-disorder in dynamics of optically pumped metals from non-linear electron-phonon coupling"
+title: "Phonon-induced disorder in dynamics of optically pumped metals from non-linear electron-phonon coupling"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
