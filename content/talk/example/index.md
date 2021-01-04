@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Phonon-induced disorder in dynamics of optically pumped metals from non-linear electron-phonon coupling
 
-event: Wowchemy Conference
+event: 
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Department of Physics, Princeton University
 address:
   street: 450 Serra Mall
   city: Stanford
