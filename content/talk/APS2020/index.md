@@ -39,6 +39,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_slides: {{% staticref "media/Talk_Jankunas-compressed.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+url_slides: "media/Talk_Jankunas-compressed.pdf"
 
 ---
