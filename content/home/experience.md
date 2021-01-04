@@ -37,14 +37,14 @@ experience:
     date_end: '2019-02-01'
     
   - title: Visiting fellow
-    company: Institute for Theoretical Atomic, Molecular, and Optical Physics (ITAMP), Harvard-Smithsonian Center for Astrophysics and Department of Physics, Harvard University
+    company: Institute for Theoretical Atomic, Molecular & Optical Physics (ITAMP), Harvard-Smithsonian Center for Astrophysics and Department of Physics, Harvard University
     company_url: ''
     location: ''
     date_start: '2018-09-01'
     date_end: '2018-10-01'
     
   - title: Institute for Theoretical Atomic, Molecular, and Optical Physics (ITAMP) Visiting Fellow
-    company: Institute for Theoretical Atomic, Molecular, and Optical Physics (ITAMP), Harvard-Smithsonian Center for Astrophysics and Department of Physics, Harvard University
+    company: Institute for Theoretical Atomic, Molecular & Optical Physics (ITAMP), Harvard-Smithsonian Center for Astrophysics and Department of Physics, Harvard University
     company_url: ''
     location: ''
     date_start: '2017-08-01'
