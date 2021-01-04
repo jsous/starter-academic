@@ -1,33 +1,33 @@
 ---
-title: Talk 2
+title: Light bipolarons stabilized by strong Peierls electron-vibration coupling: A new hope for high-$T_c$ superconductivity
 
 event: 
-event_url: https://example.org
+event_url:
 
-location: Department of Physics, Princeton University
+location: American Physical Society (APS) March Meeting, virtual
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region:
+  postcode:
+  country: 
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: 
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-04-01T15:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-04-01T15:00:00Z"
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 ---
 
