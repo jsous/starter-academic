@@ -26,7 +26,7 @@ publishDate: "2020-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: *arXiv:2009.00619 (2020)*
+publication: *arXiv*
 publication_short: *arXiv*
 
 abstract: 
@@ -38,6 +38,11 @@ tags: []
 
 # Display this page in the Featured widget?
 featured: true
+
+# Custom links (uncomment lines below)
+ links:
+ - name: Custom Link
+   url: https://arxiv.org/pdf/2009.00619.pdf
 
 url_pdf: ''
 url_code: ''
