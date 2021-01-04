@@ -40,11 +40,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Custom Link
-   url: https://arxiv.org/pdf/2009.00619.pdf
+# links:
+# - name: Custom Link
+#   url: https://arxiv.org/pdf/2009.00619.pdf
 
-url_pdf: 'https://arxiv.org/pdf/2009.00619.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
