@@ -1,11 +1,10 @@
-n electron-phonon mechanism for electron pairing and high-temperature superconductivity?, Instituto de Ciencia de Materiales de Madrid, Consejo Superior de Investigaciones Cient ́ıficas, Department of Theory and Simulation of Materials - Madrid (February, 2019).
 ---
 title: "An electron-phonon mechanism for electron pairing and high-temperature superconductivity?"
 
 event: 
 event_url: ''
 
-location: Instituto de Ciencia de Materiales de Madrid, Consejo Superior de Investigaciones Cientıficas, Department of Theory and Simulation of Materials
+location: Instituto de Ciencia de Materiales de Madrid, Consejo Superior de Investigaciones Científicas, Department of Theory and Simulation of Materials
 address:
   street: 
   city: 
