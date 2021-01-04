@@ -29,4 +29,4 @@ I am a Materials Research Science and Engineering Center (MRSEC) Postdoctoral Fe
 
 My main research focus lies in the study of quantum matter in which quantum correlations conspire to stabilize extreme and sometimes new forms of matter. My research aims to find a general unifying understanding of interactions in many-body systems.  This is done by studying model systems realized in experiment in some instances, or by identifying universal features common amongst many realizations in others. I am particularly interested in correlated quantum materials, ultracold atoms and molecules, and dynamics of non-linearly and optically driven systems. My research relies on a carefully tailored combination of analytical and numerical techniques.
 
-When not working, I contemplate how science can positively affect society and culture. Otherwise, I enjoy biking and consuming culture.
+When not working, I contemplate ways in which science can affect societal and cultural changes. Otherwise, I enjoy biking and consuming culture in various forms.
