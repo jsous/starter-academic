@@ -2,19 +2,27 @@
 title: Phonon-induced disorder in dynamics of optically pumped metals from non-linear electron-phonon coupling
 
 event: 
-event_url: 
+event_url: ''
 
 location: Department of Physics, Princeton University
+address:
+  street: 
+  city: 
+  region: CA
+  postcode: 
+  country: 
 
+summary: 
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-01"
+date: "2019-10T16:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-10-01T00:00:00Z"
 
 authors: []
 tags: []
