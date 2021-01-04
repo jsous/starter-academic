@@ -36,9 +36,9 @@ links:
   name: 
   url: 
 url_code: ""
-url_pdf: jsous/starter-academic/static/Talk_Jankunas-compressed.pdf
+url_pdf: ""
 url_slides: ""
 url_video: ""
-url_slides: ""
+url_slides: {{% staticref "media/Talk_Jankunas-compressed.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
 ---
