@@ -26,8 +26,8 @@ publishDate: "2020-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: arXiv:2009.00619 (2020)
+#publication_short: arXiv
 
 abstract: 
 
