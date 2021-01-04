@@ -30,5 +30,5 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-slides = "example-slides"
+slides = example-slides
 ---
