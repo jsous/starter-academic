@@ -3,7 +3,7 @@ widget: pages
 widget_id: Sous
 headless: true
 weight: 90
-title: Selected Talks
+title: Invited Talks, selected
 subtitle: null
 content:
   page_type: talk
