@@ -1,5 +1,5 @@
 ---
-title: "Light bipolarons stabilized by strong Peierls electron-vibration coupling: A new hope for high-$T_c$ superconductivity"
+title: "Light bipolarons stabilized by strong Peierls electron-vibration coupling: A new hope for high-$T\\_c$ superconductivity"
 
 event: 
 event_url: ''
