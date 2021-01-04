@@ -39,6 +39,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_slides: static/media/Talk_Jankunas-compressed.pdf
+url_slides: static/Talk_Jankunas-compressed.pdf
 
 ---
