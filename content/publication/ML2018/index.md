@@ -6,7 +6,7 @@ title: "Extrapolating quantum observables with machine learning: Inferring multi
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - R. A. Vargas-Hernández
-- J. Sous and M. Pretko
+- J. Sous
 - M. Berciu, and R. V. Krems
 
 
