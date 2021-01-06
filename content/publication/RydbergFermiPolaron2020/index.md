@@ -30,10 +30,10 @@ publication_types: ["2"]
 publication: Phys. Rev. Research 2, 023021 (2020)
 #publication_short:
 
-abstract: 
+#abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+#summary: 
 
 tags: []
 
@@ -41,9 +41,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-#links:
-#- name: Press release
-#  url: https://science.ubc.ca/news/physicists-propose-new-path-high-temperature-superconductivity
+ #links:
+ #- name: Press release
+ #  url: https://science.ubc.ca/news/physicists-propose-new-path-high-temperature-superconductivity
 
 url_pdf: ''
 url_code: ''
