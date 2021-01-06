@@ -42,7 +42,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
+- name: Press release
   url: https://science.ubc.ca/news/physicists-propose-new-path-high-temperature-superconductivity
 
 url_pdf: ''
