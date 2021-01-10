@@ -33,7 +33,7 @@ publication: Phys. Rev. Lett. 121, 247001 (2018)
 #abstract: 
 
 # Summary. An optional shortened abstract.
-#summary: 
+summary: Bipolarons shed off extra weight.
 
 tags: []
 
