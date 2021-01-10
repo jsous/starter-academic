@@ -11,27 +11,27 @@
 [[main]]
   name = "Research"
   url = "#projects"
-  weight = 40
+  weight = 50
   
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 50
+  weight = 60
   
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 60
+  weight = 70
   
 [[main]]
   name = "Outreach"
   url = "#posts"
-  weight = 70
+  weight = 80
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 85
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
