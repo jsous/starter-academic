@@ -35,7 +35,7 @@ publication: Phys. Rev. Lett. 121, 247001 (2018)
 # Summary. An optional shortened abstract.
 summary: "Bipolarons shed off extra weight: Normally two polarons form a bipolaron by increasing their net potential energy. As a result, the two polarons tend to remain spatially close to each other, and the bipolaron becomes heavy.  Here, we show that polarons can bind by increasing their kinetic energy, leading to light bipolarons and a possible new mechanism for high-temperature superconductivity."
 
-tags: []
+tags: [Quantum Matter]
 
 # Display this page in the Featured widget?
 featured: true
