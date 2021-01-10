@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Exclusive meritocracy as a barrier to the unpriviliged. 
+subtitle: In the wake of discussions on equity, diversity and inclusion in academia, ignited by recent social unrest in the U.S., I share some thoughts about one crucial and yet widely dismissed barrier to success experienced by marginalized communities: _Exclusive meritocracy_.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: In the wake of discussions on equity, diversity and inclusion in academia, ignited by recent social unrest in the U.S., I share some thoughts about one crucial and yet widely dismissed barrier to success experienced by marginalized communities: _Exclusive meritocracy_.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-10-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,11 +30,11 @@ image:
 
 authors:
 - admin
-- 吳恩達
+#- 吳恩達
 
 tags:
-- Academic
-- 开源
+#- Academic
+#- 开源
 
 categories:
 - Demo
