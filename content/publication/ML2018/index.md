@@ -36,7 +36,7 @@ publication: Phys. Rev. Lett. 121, 255702 (2018)
 # Summary. An optional shortened abstract.
 summary: Machine learning is a powerful tool to analyze complex data, but can it help reveal unexplored domains of knowledge? We answer this question in the affirmative, showing in this work that one can predict phase transitions using Gaussian process extrapolation across parameter space.
 
-tags: []
+tags: [Quantum Transitions]
 
 # Display this page in the Featured widget?
 featured: true
