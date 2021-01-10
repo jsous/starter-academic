@@ -33,7 +33,7 @@ publication: Phys. Rev. Research 2, 023021 (2020)
 #abstract: 
 
 # Summary. An optional shortened abstract.
-#summary: 
+summary: "Rydberg Fermi polaron? We show that an atom excited to a Rydberg state in an atomic Fermi gas realizes an exotic state, dubbed Rydberg Fermi superpolaron, in which the Rydberg atom encircles the background atoms in the space between its nucleus and it Rydberg electron, and the Pauli principle manifests as a rotional blockade to excitations. See https://en.wikipedia.org/wiki/Rydberg_polaron for more information about Rydberg polarons." 
 
 tags: []
 
