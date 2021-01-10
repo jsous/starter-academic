@@ -4,7 +4,7 @@ summary: I actively engage in the study of quantum mechanics of large ensembles 
 
 tags:
 - Quantum Matter
-date: "2017-01-01T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
