@@ -1,5 +1,5 @@
 ---
-title: Non-equilibrium quantum dyanmics
+title: Non-equilibrium quantum dynamics
 summary: Using field theoretic and numerical approaches, I investigate the non-equilibrium and time-resolved spectroscopy of large, complex systems, including correlated electron-phonon solids, Rydberg gases, disordered systems and optically pumped condensed-phase platforms. This program aims to reveal critical information about the excited-state structure and out-of-equilibrium transient behavior in experiment.
 
 tags:
