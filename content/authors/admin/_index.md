@@ -1,6 +1,6 @@
 ---
-title: John Sous
 role: MRSEC Postdoctoral Fellow
+avatar_filename: img_5100.jpg
 bio: ""
 interests: []
 social:
@@ -21,9 +21,10 @@ education:
     - course: M.Sc., Chemical Physics
       institution: University of Waterloo
       year: 2013
-email: js5530 at columbia dot edu
 superuser: true
 highlight_name: false
+title: John Sous
+email: js5530 at columbia dot edu
 ---
 I am a Materials Research Science and Engineering Center (MRSEC) Postdoctoral Fellow in the Center for Precision Assembly of Superstratic and Superatomic Solids and Departments of Physics and Chemistry at Columbia University, where I collaborate with Andrew J. Millis and David R. Reichman.
 
