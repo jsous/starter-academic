@@ -33,7 +33,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: Fractons, as a new type of exotic quasiparticle, have attracted immense attention due to their unique properties. Here, we construct a connection between fractons and polarons. We derive microscopic situations in which polarons and their two-body bound states, known as bipolarons, map exactly on to fractons and their two-body counterparts, dipoles. Highlighted as Editor's Suggestion.
 
-tags: []
+tags: [Quantum Matter]
 
 # Display this page in the Featured widget?
 featured: true
