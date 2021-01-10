@@ -10,7 +10,7 @@ headless: true
 weight: 100
 
 title: Outreach and more
-subtitle: Random thoughts shared with the world
+subtitle: Thoughts shared with the world
 
 content:
   # Page type to display. E.g. post, talk, publication...
