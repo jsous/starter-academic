@@ -32,7 +32,7 @@ publication: Phys. Rev. Lett. 120, 110601 (2018)
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary:
+summary: "Quantum mechanics freezes a hot plasma: We show that Rydberg molecules in a quenched molecular plasma interfere to form a stable long-lived localized state. Randomness in the Rydberg plasma acts decisively to freeze the dynamics of Rydberg excitations in a process suggestive of many-body localization, explaining recent experimental observations."
 
 tags: []
 
