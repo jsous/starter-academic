@@ -31,7 +31,7 @@ publication: Phys. Rev. B 102, 214437 (2020)
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Fractons, as a new type of exotic quasiparticle, have attracted immense attention due to their unique properties. Here, the authors construct a connection between fractons and polarons. This allows them to derive explicitly microscopic models, in which polarons and their two-body bound states, known as bipolarons, map exactly on to fractons and their two-body counterparts, dipoles. As a specific example, the authors show how fractons and dipoles arise from magnetic polarons and bipolarons in hole-doped antiferromagnets, thus providing a route towards their physical realization, Highlight published as Editor's Suggestion in Phys. Rev. B.
+summary: Fractons, as a new type of exotic quasiparticle, have attracted immense attention due to their unique properties. Here, we construct a connection between fractons and polarons. We derive microscopic situations in which polarons and their two-body bound states, known as bipolarons, map exactly on to fractons and their two-body counterparts, dipoles, Highlighted as Editor's Suggestion.
 
 tags: []
 
