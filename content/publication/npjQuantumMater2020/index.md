@@ -32,7 +32,7 @@ publication: npj Quantum Mater. 5, 81 (2020)
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: This work details a physical implementation of fracton quasiparticles, which possess unusual immobility constraints, in hole-doped antiferromagnets.
+summary: Frustrated fractons: Fractons, a new type of quasiparticles, have attracted attention due to their unusual mobility constraints. But, where can we find fractons in the lab? We show that frustration of the background due to hole motion in hole-doped antiferromagnets produces fractonic quasiparticles.
 
 tags: []
 
