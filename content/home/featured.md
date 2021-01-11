@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: "Featured <br/><br/> Publications"
+title: "Featured Papers"
 subtitle: ""
 
 content:
