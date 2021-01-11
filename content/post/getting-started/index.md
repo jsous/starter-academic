@@ -41,9 +41,6 @@ authors:
 #- 教程
 ---
 
-## Overview
-
-
 Meritocracy describes the process of awarding reward to talented individuals in accordance to their merit. Exclusive meritocracy, however, refers to meritocracy in which only exclusive members of a specific group organized according to their interest or pedigree have access to opportunities. Often times individuals with remarkable achievements cannot gain access to such opportunities because they are not members of the exclusivity group. This often emerges within highly attractive fields led by powerful leaders, and impedes outside-the-mainstream talented persons. One should remark that individuals rewarded in exclusive meritocracy tend to be highly successful even if not the most deserving. This explains why exclusive meritocracy propels itself deeper into the fabric of the most successful, impactful academic and industrial institutions.
 
 I believe exclusive meritocracy is driven by an overall trend of imbalance in opportunities in which the number of openings sharply decline from one professional level to the next. For example, the funding for Ph.D. students has exploded in the last few decades, resulting in many more opportunities for undergraduate students to attain doctorates. However, funding for faculty jobs has either remained constant or declined over the same time interval. The overall result is more talented Ph.D. graduates compete for fewer faculty openings. Comparing talent at this very high level presents a challenge. As a result, exclusive meritocracy can often act as the difference maker.
