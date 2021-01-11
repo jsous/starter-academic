@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -49,7 +49,13 @@ I hope it is clear to the reader why exclusive meritocracy is detrimental to equ
 
 Some of these thoughts were inspired by an opinion article written published by David Brooks in The New York Times titled "The Meritocracy Is Ripping America Apart", see https://www.nytimes.com/2019/09/12/opinion/markovits-meritocracy.html.
 
-I welcome the reader’s thoughts, contributions to this discussion or objections to my arguments. You can contact me with your thoughts.
+I welcome the reader’s thoughts, contributions to this discussion or objections to my arguments. Feel free to contact me with your thoughts.
 
-‎‎‎
-¹Perhaps Laughlin faced challenges of exclusive meritocracy and prevailed. I am in no position to judge this. I simply mention this example as a demonstration of success driven by an outsider’s perspective.
+
+
+
+
+‎‎‎‎
+‎‎‎‎
+‎‎‎‎
+¹Perhaps Laughlin faced the challenges of exclusive meritocracy and prevailed. I am in no position to judge this. I simply mention this example as a demonstration of success driven by an outsider’s perspective.
