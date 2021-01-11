@@ -51,11 +51,6 @@ Some of these thoughts were inspired by an opinion article written published by 
 
 I welcome the reader’s thoughts, contributions to this discussion or objections to my arguments. Feel free to contact me with your thoughts.
 
+<br/><br/>
 
-
-
-
-‎‎‎‎
-‎‎‎‎
-‎‎‎‎
 ¹Perhaps Laughlin faced the challenges of exclusive meritocracy and prevailed. I am in no position to judge this. I simply mention this example as a demonstration of success driven by an outsider’s perspective.
