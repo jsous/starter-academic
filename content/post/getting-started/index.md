@@ -1,9 +1,9 @@
 ---
-title: "Exclusive meritocracy: A barrier to equity"
-subtitle: "In the wake of discussions on equity, diversity and inclusion in academia, ignited by recent social unrest in the U.S., I share some thoughts about one crucial and yet widely dismissed barrier to success experienced by marginalized communities: _Exclusive meritocracy_."
+title: "Exclusive meritocracy: A barrier to equity and scientific advancement"
+subtitle: "In the wake of discussions on equity, diversity and inclusion in academia, ignited by recent social unrest in the U.S., I share some thoughts about one crucial and yet widely dismissed barrier to success experienced by marginalized communities: _Exclusive meritocracy_. I argue that exclusive meritocracy harms scientific advancement in the long run."
 
 # Summary for listings and search engines
-summary: "In the wake of discussions on equity, diversity and inclusion in academia, ignited by recent social unrest in the U.S., I share some thoughts about one crucial and yet widely dismissed barrier to success experienced by marginalized communities: _Exclusive meritocracy_."
+summary: "In the wake of discussions on equity, diversity and inclusion in academia, ignited by recent social unrest in the U.S., I share some thoughts about one crucial and yet widely dismissed barrier to success experienced by marginalized communities: _Exclusive meritocracy_. I argue that exclusive meritocracy harms scientific advancement in the long run."
 
 # Link this post with a project
 projects: []
@@ -47,9 +47,11 @@ I believe exclusive meritocracy is driven by an overall trend of imbalance in op
 
 I hope it is clear to the reader why exclusive meritocracy is detrimental to equity. The compounded effect of exclusive meritocracy rampant at various levels of society from childhood to retirement means an overall barrier to diversity and inclusion. This problem requires an overall re-thinking of strategies aimed at enhancing minority representation in the work place. Apart from issues of equity, some may object that eliminating exclusive meritocracy will negatively impact science and technology; after all, civilization has reached an unprecedented level of scientific development utilizing the current system. Here, I wish to differ and make the argument that exclusive meritocracy hurts science and technology. My main argument is that remarkable scientific and technological achievements often involved creative individuals outside the mainstream line of thinking. In a way, the most ingenious approach to a long-standing problem requires a different mindset, a perspective unassumed with the prevailing philosophy within a particular community. (To my mind, one clear example of this phenomena is the theory of the quantum Hall effect developed by Bob Laughlin, who was originally trained in first-principle electronic structure methods.¹) This necessitates an openness to outsiders, directly conflicting with exclusivity. Thus, I argue, in the long-term society as a whole and scientific output in particular will be best served by an open culture of merit, open meritocracy.
 
+How do we eliminate exclusive meritocracy? Let me acknowledge first that this article aims mainly to highlight the prevalence of exclusive meritocracy in academia. Proposing solutions to eliminate meritocracy -- while urgent -- requires a sythesis of ideas, and is thus left to a future article. For now, I wish to point out a few simple measures that may aid in this effort. First, I believe disucssing exclusive meritocracy and its harms openly in academic and professional settings helps: highlighting the bias involved in exclusive meritocracy can help change the mindset in exclusive groups. Second, rewarding efforts to counter exclusive meritocracy will incentivize leaders to promote change. For example, certain grants can be made available from the university or funding agencies only on the condition that they are used to train a postdoc or a student from a significantly different field. To prove that, documentation explaining the background of the advisee and a plan to integrate them into the new research program must be presented. I close by emphasizing that science and technology, together with societal welfare will benefit from a culture of open meritocracy.
+
 Some of these thoughts were inspired by an opinion article contributed by David Brooks in The New York Times titled "The Meritocracy Is Ripping America Apart", see https://www.nytimes.com/2019/09/12/opinion/markovits-meritocracy.html.
 
-I welcome the reader’s thoughts, contributions to this discussion or objections to my arguments. Feel free to contact me with your thoughts.
+I welcome the reader’s thoughts, contributions to this discussion or objections to my arguments. Feel free to contact me with your comments.
 
 <br/><br/>
 
