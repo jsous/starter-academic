@@ -23,8 +23,8 @@ item:
     title: "Deutscher Akademischer Austauschdienst (DAAD) Short-Term Research Grant Scholarship"
     url: ""
   - certificate_url: ""
-    date_end: 2019-04-30
-    date_start: 2018-09-01
+    date_end: 2018-04-30
+    date_start: 2017-09-01
     description: ""
     organization: ITAMP at Harvard University
     organization_url: https://www.cfa.harvard.edu/itamp-home
