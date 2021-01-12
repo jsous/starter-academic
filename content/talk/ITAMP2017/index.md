@@ -1,5 +1,5 @@
 ---
-title: "Phonon-mediated repulsion, sharp transitions, (quasi)self-trapping and repulsive bipolarons in the extended Peierls-Hubbard model,"
+title: "Phonon-mediated repulsion, sharp transitions, (quasi)self-trapping and repulsive bipolarons in the extended Peierls-Hubbard model"
 
 event: 
 event_url: ''
