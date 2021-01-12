@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "js5530 at columbia dot edu"
+email = "js5530@columbia.edu"
 phone = ""
 
 # Address
