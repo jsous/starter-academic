@@ -1,6 +1,6 @@
 ---
-title: Quantum transitions
-summary: I am interested in understanding the manifestations of quantum interactions as transitions in physical observables in experiment. This includes phase transitions, which involve the cooperative behavior of a large collection of particles, or quasiparticle systems such as polarons and bipolarons, in which a transition can happen if two energy levels cross, or, more interestingly, if a state changes character abruptly at the transition point. Besides their importance to foundational theory, these transitions often serve as an attractor to other emergent behavior. For example, superconductivity emergent near a ferroelectric-paraelectric transition represents one class of such problems.
+title: Quantum-driven transitions
+summary: I am interested in understanding the manifestations of quantum interactions as transitions in physical observables in experiment. This includes quantum phase transitions and quantum state transitions. The former involves the cooperative behavior of a large collection of particles driven by quantum correlations. The latter refers to situations in which a quantum state, for example a quasiparticle, exhibits a transition, which occurs if two energy levels cross, or, more interestingly, if the state changes character abruptly at the transition point. Besides their importance to foundational theory, these transitions often serve as an attractor to other emergent behavior. For example, superconductivity emergent near a ferroelectric-paraelectric transition represents one class of such problems. 
 
 tags:
 - Quantum Transitions
