@@ -4,7 +4,7 @@ title: Fracton-like quasiparticles in hole-doped antiferromagnets
 event: 
 event_url: ''
 
-location: Simons Center for Geometryand Physics, Stony Brook University - virtual
+location: Simons Center for Geometry and Physics, Stony Brook University - virtual
 address:
   street: 
   city: 
