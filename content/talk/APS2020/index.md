@@ -4,7 +4,7 @@ title: "Light bipolarons stabilized by strong Peierls electron-vibration couplin
 event: 
 event_url: 
 
-location: American Physical Society (APS) March Meeting 2020, virtual
+location: American Physical Society (APS) March Meeting 2020 - virtual
 address:
   street: 
   city: 
