@@ -1,4 +1,3 @@
-,  (May, 2021)
 ---
 title: Fracton-like quasiparticles in hole-doped antiferromagnets
 
