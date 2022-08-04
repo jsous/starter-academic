@@ -23,11 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Research Scientist
+    company: Geballe Laboratory for Advanced Materials (GLAM), the Stanford Institute for Theoretical Physics (SITP) and Department of Physics, Stanford University
+    company_url: ''
+    location: ''
+    date_start: '2022-05-01'
+    date_end: ''
+    
+  - title: Postdoctoral Research Scientist
     company: Center for Precision Assembly of Superstratic and Superatomic Solids and Departments of Physics & Chemistry, Columbia University
     company_url: ''
     location: ''
     date_start: '2019-03-01'
-    date_end: ''
+    date_end: '2019-04-01'
     
   - title: Deutscher Akademischer Austauschdienst (DAAD) Fellow
     company: Department of Physics, Technical University of Munich
