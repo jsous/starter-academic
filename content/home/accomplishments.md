@@ -7,7 +7,15 @@ subtitle: null
 date_format: Jan 2006
 item:
   - certificate_url: ""
-    date_end: 2022-03-30
+    date_end: 2025-04-30
+    date_start: 2022-05-01
+    description: ""
+    organization: Stanford University Moore
+    organization_url: https://mrsec.columbia.edu
+    title: "Gordon & Betty Moore Postdoctoral Fellowship"
+    url: ""
+  - certificate_url: ""
+    date_end: 2022-04-30
     date_start: 2019-03-01
     description: ""
     organization: Columbia University MRSEC
