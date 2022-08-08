@@ -7,7 +7,7 @@ subtitle: null
 date_format: Jan 2006
 item:
   - certificate_url: ""
-    date_end: 2025-04-30
+    date_end: -
     date_start: 2022-05-01
     description: ""
     organization: Stanford University Moore
