@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Research Scientist
-    company: Geballe Laboratory for Advanced Materials (GLAM), the Stanford Institute for Theoretical Physics (SITP) and Department of Physics, Stanford University
+    company: Geballe Laboratory for Advanced Materials (GLAM), Stanford Institute for Theoretical Physics (SITP) and Department of Physics, Stanford University
     company_url: ''
     location: ''
     date_start: '2022-05-01'
