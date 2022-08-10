@@ -32,4 +32,4 @@ My research focuses on the study of systems in which quantum correlations act to
 
 When not working, I contemplate how science can positively affect society. Otherwise, I enjoy running, biking and absorbing culture.
 
-I enjoy working with undergraduate and graduate students. Stanford and UCSD undergrads and grads: Feel free to reach out to me, I have a number of research problems I am interested in that involve analytical or numerical work, or both.  
+I enjoy working with undergraduate and graduate students. Stanford and UCSD undergrads and grads: Feel free to reach out to me, I am working on a number of exciting research directions that require analytical and/or computational work, and you are welcome to join. 
