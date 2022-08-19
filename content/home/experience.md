@@ -34,7 +34,7 @@ experience:
     company_url: ''
     location: ''
     date_start: '2019-03-01'
-    date_end: '2019-04-01'
+    date_end: '2022-04-01'
     
   - title: Deutscher Akademischer Austauschdienst (DAAD) Fellow
     company: Department of Physics, Technical University of Munich
