@@ -24,7 +24,7 @@ education:
 superuser: true
 highlight_name: false
 title: John Sous
-email: sous@stanford.edu
+email: jsous@ucsd.edu
 ---
 Since July 2023, I am an Assistant Professor at the University of California San Diego (UCSD). Before that I was a Gordon & Betty Moore Postdoctoral Fellow at Stanford University, before which I was a Materials Research Science and Engineering Center (MRSEC) Postdoctoral Fellow at Columbia University. I obtained a Ph.D. in Physics from the University of British Columbia (UBC) in 2019.
 
