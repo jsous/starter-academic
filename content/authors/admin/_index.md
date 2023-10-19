@@ -1,5 +1,5 @@
 ---
-role: Moore Postdoctoral Fellow
+role: Assistant Professor
 avatar_filename: img_5100.jpg
 bio: ""
 interests: []
@@ -11,8 +11,8 @@ social:
     icon_pack: fab
     link: https://scholar.google.com/citations?user=_PqcB9kAAAAJ&hl=en
 organizations:
-  - name: Stanford University
-    url: https://physics.stanford.edu
+  - name: University of California San Diego
+    url: https://ucsd.edu
 education:
   courses:
     - course: Ph.D., Theoretical Physics
@@ -26,7 +26,7 @@ highlight_name: false
 title: John Sous
 email: sous@stanford.edu
 ---
-Since July, 2023, I am an Assistant Professor at the University of California San Diego (UCSD). Before that I was a Gordon & Betty Moore Postdoctoral Fellow at Stanford University, before which I was a Materials Research Science and Engineering Center (MRSEC) Postdoctoral Fellow at Columbia University. I have obtained a Ph.D. in Physics from the University of British Columbia (UBC) in 2019.
+Since July 2023, I am an Assistant Professor at the University of California San Diego (UCSD). Before that I was a Gordon & Betty Moore Postdoctoral Fellow at Stanford University, before which I was a Materials Research Science and Engineering Center (MRSEC) Postdoctoral Fellow at Columbia University. I obtained a Ph.D. in Physics from the University of British Columbia (UBC) in 2019.
 
 My research focuses on the study of systems in which quantum correlations act to stabilize extreme states and sometimes entirely new forms of matter. My research aims to gain a general, unifying understanding of interactions in these many-body systems. I progress in this effort by studying model systems realized in experiment in some instances, or by identifying universal features common amongst many realizations in others. I am particularly interested in correlated quantum materials, ultracold atoms and molecules, and dynamics of non-linearly and optically driven systems. My research relies on a carefully tailored combination of analytical and numerical techniques.
 
