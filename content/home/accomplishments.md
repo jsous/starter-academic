@@ -1,7 +1,7 @@
 ---
 widget: accomplishments
 headless: true
-weight: 50
+weight: 30
 title: Awards, selected
 subtitle: null
 date_format: Jan 2006
