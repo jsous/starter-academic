@@ -7,11 +7,19 @@ subtitle: null
 date_format: Jan 2006
 item:
   - certificate_url: ""
+    date_end: 2024-03-01
+    date_start: 2027-02-28
+    description: ""
+    organization: Air Force Office of Scientific Research (AFOSR) Young Investigator Program (YIP Award 
+    organization_url: https://www.afrl.af.mil/News/Article-Display/Article/3625080/afosr-awards-215m-to-scientists-engineers-via-young-investigator-program/
+    title: "AFOSR YIP"
+    url: ""
+  - certificate_url: ""
     date_end: 2023-09-30
     date_start: 2022-05-01
     description: ""
     organization: Stanford University Moore
-    organization_url: https://mrsec.columbia.edu
+    organization_url: https://sitp.stanford.edu
     title: "Gordon & Betty Moore Postdoctoral Fellowship"
     url: ""
   - certificate_url: ""
