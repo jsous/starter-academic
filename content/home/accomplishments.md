@@ -10,7 +10,7 @@ item:
     date_end: 2027-02-28
     date_start: 2024-03-01
     description: ""
-    organization: Department of Energy (DOE) Air Force Office of Scientific Research (AFOSR) Young Investigator Program (YIP) Award 
+    organization: Department of Defense (DOD) Air Force Office of Scientific Research (AFOSR) Young Investigator Program (YIP) Award 
     organization_url: https://www.afrl.af.mil/News/Article-Display/Article/3625080/afosr-awards-215m-to-scientists-engineers-via-young-investigator-program/
     title: "AFOSR Young Investigator Program Award"
     url: ""
