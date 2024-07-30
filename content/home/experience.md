@@ -23,11 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
+    company: Yale University
+    company_url: ''
+    location: ''
+    date_start: '2024-07-01'
+    date_end: ''
+    
+  - title: Assistant Professor
     company: University of California, San Diego
     company_url: ''
     location: ''
     date_start: '2023-07-01'
-    date_end: ''
+    date_end: '2023-06-30'
     
   - title: Postdoctoral Research Scientist
     company: Geballe Laboratory for Advanced Materials (GLAM), Stanford Institute for Theoretical Physics (SITP) and Department of Physics, Stanford University
