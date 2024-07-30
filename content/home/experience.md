@@ -34,7 +34,7 @@ experience:
     company_url: ''
     location: ''
     date_start: '2023-07-01'
-    date_end: '2023-06-30'
+    date_end: '2024-06-30'
     
   - title: Postdoctoral Research Scientist
     company: Geballe Laboratory for Advanced Materials (GLAM), Stanford Institute for Theoretical Physics (SITP) and Department of Physics, Stanford University
