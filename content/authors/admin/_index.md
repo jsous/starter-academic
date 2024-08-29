@@ -33,3 +33,7 @@ My research focus lies in the fields of condensed matter, materials physics and 
 When not working, I enjoy running, sometimes biking and absorbing culture.
 
 I enjoy working with undergraduate and graduate students. Yale undergrads and grads: If you are interested in physics or AI or both, like to develop abstract concepts and build code to implement ideas and, most importantly, want to solve important problems relevant to fundamental science, engineering and emerging technologies, reach out to me.
+
+
+*Announcements*: I am actively looking for postdocs. There are postdoc Fellowships available through Yale and externally that may allow you to work with me.  One example is the 2024 Tony Massini Postdoctoral Fellowship which allows interdsciplinary work in the field of data science (previous awardees include scientists who work in the natural sciences such as chemistry as well as statisticians, so all those who are interested should reach out to me).  The deadline is September 20, so please reach out as soon as possible.
+
