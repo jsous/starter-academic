@@ -32,8 +32,7 @@ My research focus lies in the fields of condensed matter, materials physics and 
 
 When not working, I enjoy running, sometimes biking and absorbing culture.
 
-I enjoy working with undergraduate and graduate students. Yale undergrads and grads: If you are interested in physics or AI or both, like to develop abstract concepts and build code to implement ideas and, most importantly, want to solve important problems relevant to fundamental science, engineering and emerging technologies, reach out to me.
-
-
-*Announcements*: I am actively looking for postdocs. There are postdoc Fellowships available through Yale and externally that may allow you to work with me.  One example is the 2024 Tony Massini Postdoctoral Fellowship which allows interdsciplinary work in the field of data science (previous awardees include scientists who work in the natural sciences such as chemistry as well as statisticians, so all those who are interested should reach out to me).  The deadline is September 20, so please reach out as soon as possible.
+_Announcements_: I am actively looking for students and postdocs. Yale is very interdisciplinary, so students and postdocs are often able to work with faculty in other departments.
+- Students: If you are already enrolled in a program here and interested in physics or AI or both (with a background in physics, math, applied math, CS or a related field), please reach out to me. If you are interested in joining Yale and working with me, please let me know and apply to the Ph.D. program in Applied Physics (or reach out to me to identify other departments with good fit).
+- Postdocs: Please write to me if you are interested. There are also postdoc fellowships available through Yale and externally that may allow you to work with me. One example is the 2024 Tony Massini Postdoctoral Fellowship for interdsciplinary work in the field of data science (previous awardees include researchers who work in the natural sciences such as chemistry as well as statisticians, so all those who are interested in working on physics and/or AI should reach out to me). The deadline of September 20 is fast approaching, so please reach out to me as soon as possible.
 
