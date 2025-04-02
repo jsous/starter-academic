@@ -26,6 +26,9 @@ highlight_name: false
 title: John Sous
 email: john.sous@yale.edu
 ---
+
+**Note**: This website is no longer maintained. My personal webpage can now be found at https://sous.yale.edu/profile/john-sous.
+
 Since July 2024, I am an Assistant Professor in the Department of Applied Physics and the Energy Sciences Institute (ESI) at Yale University. Besides Applied Physics and ESI, I am also affiliated with the Yale Quantum Institute (YQI) and Yale's Institute for Foundations of Data Science (FDS). From July 2023 to June 2024, I was an Assistant Professor at the University of California San Diego (UCSD). Before that I was a Gordon & Betty Moore Postdoctoral Fellow at Stanford University, before which I was a Materials Research Science and Engineering Center (MRSEC) Postdoctoral Fellow at Columbia University. I obtained a Ph.D. in Physics from the University of British Columbia (UBC) in 2019.
 
 My research focus lies in the fields of condensed matter, quantum physics and artificial intelligence (AI).  One way to view these seemingly disparate areas is through the lens of study of systems with large number of degrees of freedom in which correlations act to stabilize novel behavior, with functionalities which can be utilized in future-generation technologies, such as energy materials and energy-efficient learning systems.  The goal of this research is to gain a general, unifying understanding of interacting statistical systems.  I progress in this effort by studying model systems that capture experiment in some instances, or by identifying universal features common amongst many experiments in others. I am particularly interested in correlated quantum matter (quantum materials and ultracold matter) and dynamical non-linear systems (optically driven quantum systems and models of neural learning).  My approach to researching these systems relies on a carefully tailored combination of numerical and analytical techniques.
