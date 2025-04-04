@@ -23,10 +23,10 @@
   url = "#talks"
   weight = 50
   
-[[main]]
-  name = "Outreach"
-  url = "#posts"
-  weight = 60
+#[[main]]
+#  name = "Outreach"
+#  url = "#posts"
+#  weight = 60
   
 [[main]]
   name = "Contact"
